@@ -1,4 +1,5 @@
 # Registro de usuários
+Sistema desenvolvido com Laravel 9 e PHP 8.1
 
 # Back-End
 1. Clone o repositório:
