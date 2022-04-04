@@ -1,5 +1,5 @@
 # Registro de usuários
-Sistema desenvolvido com Laravel 9 e PHP 8.1
+Sistema desenvolvido com Laravel 9, PHP 8.1 e utilizei o Sanctum para autenticar os usuários.
 
 # Back-End
 1. Clone o repositório:
